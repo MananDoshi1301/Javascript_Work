@@ -1,0 +1,44 @@
+body {
+  background: url(Ecell_leaderboard.jpeg) no-repeat center center fixed;
+  background-color: gold;  
+}
+
+.img-text{
+  position: absolute;
+  left: 47%;
+  top:10%;
+  width: 600px;  
+}
+
+.leaderboard{
+  font-size: 2.3rem;
+  border: 7px solid #ffffff;
+  background-color: #EC4E20;
+  background-color: #F15152;
+  background-color: #D64D86;
+  border-radius: 25px;
+  /* box-shadow: 5px 5px 5px gray; */
+}
+
+.participant{  
+  color: #333;
+  border-radius: 15px;
+  font-size: 1.5rem;
+  box-shadow: 2px 2px 2px #333;
+  border: 2px solid white;
+}
+
+.participant:nth-child(odd){
+  background-color: #F55698;
+  background-color: #EDAF97;
+}
+
+.participant:nth-child(even){
+  background-color: #39D070;
+}
+
+.boardchanger{
+  position: absolute;
+  top: 800px;
+  left: 47%;
+}
