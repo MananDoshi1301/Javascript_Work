@@ -1,1 +1,1 @@
-<h1>Javascript Projejct for maintaining a leaderboard of 10 participants</h1>
+<h1>Javascript Project for maintaining a leaderboard of 10 participants</h1>
