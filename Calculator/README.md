@@ -8,3 +8,5 @@
   <li>BOOTSTRAP</li>
   <li>JS</li>
 </ol>
+<h3>Link For the Calculator</h3>
+<a href="https://manandoshi1301.github.io/Javascript_Work/Calculator/calc.html" target="_blank">Click Here</a>
